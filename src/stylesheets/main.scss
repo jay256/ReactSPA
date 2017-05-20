@@ -1,0 +1,33 @@
+.container {
+  width: 1000px;
+  margin-top: 50px;
+}
+
+.sidepanel{
+
+}
+
+.titlelist{
+  width: inherit;
+  position: relative;
+  height:200px;
+  overflow:hidden;
+  overflow-y:scroll;
+}
+
+.entertitle{
+  margin: 20px;
+}
+
+.contentpanel{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.titlebar{
+  position: relative;
+}
+
+.content{
+  position: relative;
+}
